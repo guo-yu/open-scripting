@@ -1,0 +1,24 @@
+{
+  "name": "open-scripting",
+  "version": "0.1.0",
+  "description": "a Open Scripting Architecture lib for Max OSX 10.10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/open-scripting.git"
+  },
+  "keywords": [
+    "open-scripting",
+    "Mac",
+    "OSX"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/open-scripting/issues"
+  },
+  "homepage": "https://github.com/turingou/open-scripting"
+}
